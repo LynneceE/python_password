@@ -6,7 +6,7 @@ This is a personal project to practice very basic cracking hashed passwords and 
 
 This project was created using Python only
 
-#Installation
+# Installation
 
 Clone this repository to your machine to use this project
 
